@@ -1,5 +1,4 @@
 # Objekt verfolgendes Kamera-System
----------------------------------
 
 In diesem Git Repository wird eine Studienarbeit der DHBW Manhheim realisiert.
 
