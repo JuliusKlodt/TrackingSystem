@@ -1,4 +1,4 @@
-Objekt verfolgendes Kamera-System
+#Objekt verfolgendes Kamera-System
 ---------------------------------
 
 In diesem Git Repository wird eine Studienarbeit der DHBW Manhheim realisiert.
@@ -10,7 +10,7 @@ und Objekte wie Menschen, somit immer im Bild der Kamera verfolgt.
 Das Projekt ist somit in 2 Teile gegliedert.
 
 
-Hardware
+##Hardware
 ________
 Zuerst wird mithilfe der Software FreeCAD ein System modeliert um eine Kamera (Sony A7 R2, Tamron 28-70mm f2.8, ca. 1,2 kg) zu bewegen.
 
@@ -19,7 +19,7 @@ Zuerst wird mithilfe der Software FreeCAD ein System modeliert um eine Kamera (S
 
 
 
-Software
+##Software
 ________
 Die Kamera liefert per HDMI ein live Bild an einen Raspberry Pi. Dieser soll mit Hilfe von vorhandenen machine-learning Bibliotheken Objekte erkennen und Befehle an die beiden Motoren des pan-tilt Systems schicken, sodass das Objekt immer im Bild bleibt.
 
