@@ -18,4 +18,7 @@
 - Treffen mit Thomas Baumgärtner in Moodle um 15 Uhr, um übers 3D Drucken zu sprechen.
 - Drucken sollte klappen, bis auf 200mm Hauptplattform. Verschiedene Farben möglich. Er ist bis Ende Januar da, danach erstmal keiner verantwortlich für 3D Drucker
 - Loch an rechtem Fuß für Kabelführung von Motor und Hall Effect Sensor
-
+- Vertiefung für Magnet an statischer Basis
+- Vertiefung für Hall Efect Sensor mit Kabelführungskanal an Hauptplattform
+- Überlegung für Display und Menüführung
+- https://www.youtube.com/watch?v=0dAcabcoKvg für rotary encoder programmierung als Quelle
