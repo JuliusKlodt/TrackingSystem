@@ -16,5 +16,6 @@
 - Arbeit an Schaltplan in EasyEDA, TMC2208 anstatt 2x8 female pins, dadurch Abstand der Löcher in Platine exakt
 - Überführung des Schaltplans auf Platine und Platzierung der Teile
 - Treffen mit Thomas Baumgärtner in Moodle um 15 Uhr, um übers 3D Drucken zu sprechen.
+- Drucken sollte klappen, bis auf 200mm Hauptplattform. Verschiedene Farben möglich. Er ist bis Ende Januar da, danach erstmal keiner verantwortlich für 3D Drucker
 - Loch an rechtem Fuß für Kabelführung von Motor und Hall Effect Sensor
 
