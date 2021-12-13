@@ -16,3 +16,5 @@
 - Arbeit an Schaltplan in EasyEDA, TMC2208 anstatt 2x8 female pins, dadurch Abstand der Löcher in Platine exakt
 - Überführung des Schaltplans auf Platine und Platzierung der Teile
 - Treffen mit Thomas Baumgärtner in Moodle um 15 Uhr, um übers 3D Drucken zu sprechen.
+- Loch an rechtem Fuß für Kabelführung von Motor und Hall Effect Sensor
+
