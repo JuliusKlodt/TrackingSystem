@@ -10,3 +10,9 @@
 - Überlegung eigene Platine mit EasyEDA zu entwickeln um Raspi mit TMC2208 und A3144 zu verbinden
 - Modellierung des Abstandshalters mit Einschub für A3144 (kommt zwischen Motor und rechten tilt Fuß)
 - Löcher an 64 Zahnrad zur Befestigung an Kamerabefestigung und für Kugellager
+- Entwickelung eines Schaltplans für Verbindung von Raspi mit TMC2208 und A3144 in EasyEDA
+
+## 13.12.2021
+- Arbeit an Schaltplan in EasyEDA, TMC2208 anstatt 2x8 female pins, dadurch Abstand der Löcher in Platine exakt
+- Überführung des Schaltplans auf Platine und Platzierung der Teile
+- Treffen mit Thomas Baumgärtner in Moodle um 15 Uhr, um übers 3D Drucken zu sprechen.
