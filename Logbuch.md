@@ -26,3 +26,5 @@
 ## 14.12.2021
 - Zusammenstellung aller Komponenten die bestellt werden sollen
 - Löcher an Hauptplattform zur Befestigung einer Box, in welcher die ganze Elektronik organisiert werden soll
+- Erstellung einer Befestigung um Pan-Tilt System auf 2 Alu-Rohren zu Befestigen und mit Motor Präzise zu Steuern
+- 
