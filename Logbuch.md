@@ -22,3 +22,7 @@
 - Vertiefung für Hall Efect Sensor mit Kabelführungskanal an Hauptplattform
 - Überlegung für Display und Menüführung
 - https://www.youtube.com/watch?v=0dAcabcoKvg für rotary encoder programmierung als Quelle
+
+## 14.12.2021
+- Zusammenstellung aller Komponenten die bestellt werden sollen
+- Löcher an Hauptplattform zur Befestigung einer Box, in welcher die ganze Elektronik organisiert werden soll
