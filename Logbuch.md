@@ -27,4 +27,23 @@
 - Zusammenstellung aller Komponenten die bestellt werden sollen
 - Löcher an Hauptplattform zur Befestigung einer Box, in welcher die ganze Elektronik organisiert werden soll
 - Erstellung einer Befestigung um Pan-Tilt System auf 2 Alu-Rohren zu Befestigen und mit Motor Präzise zu Steuern
-- 
+
+## 03.01.2021
+- Füße für Slider erstellt
+- 2 verschiedene Methoden um Zahnriemen an Fuß zu befestigen
+- Befestigung an Rohr von eckig und beidseitig nutzbar zu einseitignutzbar und auf anderer Seite rund
+- ==> Vorteil, dass Motor weiter oben, sodass weiter weg von Boden
+
+## 04.01.2021
+- Halterung für Motor, Umlenkrollen und 2 Magnetsensoren an Platte an Slider
+- Kabelführung in der Halterung beachtet und das Zahnriemen nirgends schleift
+
+## 05.01.2021
+- Display, Joystick, Raspi grob modelliert um anschaulicher Elektronikbox planen zu können
+- Erstellung der äußeren Elektronikbox, sodass Kamera bei 90° Schwenk gegen nix kommt
+
+## 06.01.2021
+- Elektronikbox in 5 Teile gegliedert um drucken zu können
+- Kabelführungen in Elektronikbox integriert
+- Löcher an Wänden der Elektronikbox. Nicht sicher ob druckbar. Wenn nicht, einfach Objekt aus den Schritten vor den Löchern entnehmen
+- Zusammenstellung aller Komponenten
