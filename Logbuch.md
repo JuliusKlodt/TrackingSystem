@@ -53,3 +53,10 @@
 - Alle Teile als STL Datei abgespeichert
 - Neue Teile an Herrn Baumgärtner gesendet
 - Baumgärtner schon folgende Teile gedruckt: Statische Basis, Rechte Kamerahalterung, Kugeleinführungsstopfen, Abstandhalter mit Sensorhalterung, 21 Zahnrad für Plattformdrehung, 17 Zahnrad für Plattformdrehung, Kamerabefestigung, Linke Kamerahalterung
+- Versucht Joystick, Display und Hall Effect Sensor mit Raspi zu verbinden.
+- Problem, da Raspi nur digital Input, (hab ich nicht beachtet gehabt)
+- Magnet Sensor mit binärer Ausgabe funktioniert
+- Joystick funktioniert nicht richtig, da nur runter, rechts, drücken erkannt wird. Nicht links hoch oder irgendwelche zwischenstufen
+- Display funktioniert aber bis jetzt kein brauchbarer Output
+- Idee um Probleme zu lösen, Arduino Nano nutzen um Analoge Inputs in Digitales SIgnal zu wandeln und an Raspi zu schicken.
+- Arduino und Raspi sollen also über selbst entwickelten Bus kommunizieren?!?! ==> Erstmal nicht soo wichtig da steuerung mit display und joystick nicht notwendig für arbeit sind und ich mit der Zeit aufpassen muss
