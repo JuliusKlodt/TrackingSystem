@@ -47,3 +47,9 @@
 - Kabelführungen in Elektronikbox integriert
 - Löcher an Wänden der Elektronikbox. Nicht sicher ob druckbar. Wenn nicht, einfach Objekt aus den Schritten vor den Löchern entnehmen
 - Zusammenstellung aller Komponenten
+
+## 07.01.2021
+- Platte zur Stabilisierung der Achsen durch Umlenkrollen konstruiert
+- Alle Teile als STL Datei abgespeichert
+- Neue Teile an Herrn Baumgärtner gesendet
+- Baumgärtner schon folgende Teile gedruckt: Statische Basis, Rechte Kamerahalterung, Kugeleinführungsstopfen, Abstandhalter mit Sensorhalterung, 21 Zahnrad für Plattformdrehung, 17 Zahnrad für Plattformdrehung, Kamerabefestigung, Linke Kamerahalterung
