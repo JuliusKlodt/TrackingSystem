@@ -75,6 +75,6 @@
 - Herr Baumgärtner bietet an, dass ich nächste Woche an die DHBW kommen kann um Teile abzuholen und zu bearbeiten (schleifen etc.). Dann wahrscheinlich auch alles zusammenbauen und löten
 - Gedankengang: Erde dreht sich 360° am Tag ==> 360/24/60=0,25  ==> 0,25° pro Minute
 - Motor Schrittwinkel 1,8°
-- Statische Basis= 144 Zähne  ==> x / 144 x 1,8 = 0,125/0,25
+- Statische Basis= 144 Zähne  ==> x / 144 * 1,8 = 0,125/0,25
 - x = 10 / 20
 - ==> Zahnrad mit 10 oder 20 Zähnen könnte nutzbar sein, um Kamera wenn entlang der Erdachse ausgerichtet, mit Erdrotation mitzudrehen
