@@ -60,3 +60,13 @@
 - Display funktioniert aber bis jetzt kein brauchbarer Output
 - Idee um Probleme zu lösen, Arduino Nano nutzen um Analoge Inputs in Digitales SIgnal zu wandeln und an Raspi zu schicken.
 - Arduino und Raspi sollen also über selbst entwickelten Bus kommunizieren?!?! ==> Erstmal nicht soo wichtig da steuerung mit display und joystick nicht notwendig für arbeit sind und ich mit der Zeit aufpassen muss
+
+## 10.01.2021
+- Herausgefunden, dass man Raspi und Arduino über Serielle Schnittstelle integriert in USB kommuniezieren lassen kann. Also Stromversorgung und Kommunikation in einem
+- Ob Strom und Kommunikation zu Arduino über USB oder 4 pins ist egal
+- Konstruktion einer Platte auf Raspi, damit Raspi Elektronik von Kabeln und Arduino getrennt
+- Glücklicherweise genügend Platz für Arduino in Elektronikbox
+- Schrauben gezählt und bestellt
+- Die letzten Teile und Änderungen an Herrn Baumgärtner geschickt zum Drucken
+- Komilitone in Mannheim, neben meiner WG, hat 3D Drucker. HAb gefragt, ob er mir das letzte Teil (Hauptplattform) welches nicht an DHBW gedruckt werden kann ausdrucken kann
+- Joystick und Display zur Steuerung am Arduino zum laufen gebracht.  
