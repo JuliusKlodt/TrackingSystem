@@ -28,27 +28,27 @@
 - Löcher an Hauptplattform zur Befestigung einer Box, in welcher die ganze Elektronik organisiert werden soll
 - Erstellung einer Befestigung um Pan-Tilt System auf 2 Alu-Rohren zu Befestigen und mit Motor Präzise zu Steuern
 
-## 03.01.2021
+## 03.01.2022
 - Füße für Slider erstellt
 - 2 verschiedene Methoden um Zahnriemen an Fuß zu befestigen
 - Befestigung an Rohr von eckig und beidseitig nutzbar zu einseitignutzbar und auf anderer Seite rund
 - ==> Vorteil, dass Motor weiter oben, sodass weiter weg von Boden
 
-## 04.01.2021
+## 04.01.2022
 - Halterung für Motor, Umlenkrollen und 2 Magnetsensoren an Platte an Slider
 - Kabelführung in der Halterung beachtet und das Zahnriemen nirgends schleift
 
-## 05.01.2021
+## 05.01.2022
 - Display, Joystick, Raspi grob modelliert um anschaulicher Elektronikbox planen zu können
 - Erstellung der äußeren Elektronikbox, sodass Kamera bei 90° Schwenk gegen nix kommt
 
-## 06.01.2021
+## 06.01.2022
 - Elektronikbox in 5 Teile gegliedert um drucken zu können
 - Kabelführungen in Elektronikbox integriert
 - Löcher an Wänden der Elektronikbox. Nicht sicher ob druckbar. Wenn nicht, einfach Objekt aus den Schritten vor den Löchern entnehmen
 - Zusammenstellung aller Komponenten
 
-## 07.01.2021
+## 07.01.2022
 - Platte zur Stabilisierung der Achsen durch Umlenkrollen konstruiert
 - Alle Teile als STL Datei abgespeichert
 - Neue Teile an Herrn Baumgärtner gesendet
@@ -61,7 +61,7 @@
 - Idee um Probleme zu lösen, Arduino Nano nutzen um Analoge Inputs in Digitales SIgnal zu wandeln und an Raspi zu schicken.
 - Arduino und Raspi sollen also über selbst entwickelten Bus kommunizieren?!?! ==> Erstmal nicht soo wichtig da steuerung mit display und joystick nicht notwendig für arbeit sind und ich mit der Zeit aufpassen muss
 
-## 10.01.2021
+## 10.01.2022
 - Herausgefunden, dass man Raspi und Arduino über Serielle Schnittstelle integriert in USB kommuniezieren lassen kann. Also Stromversorgung und Kommunikation in einem
 - Ob Strom und Kommunikation zu Arduino über USB oder 4 pins ist egal
 - Konstruktion einer Platte auf Raspi, damit Raspi Elektronik von Kabeln und Arduino getrennt
@@ -71,10 +71,28 @@
 - Komilitone in Mannheim, neben meiner WG, hat 3D Drucker. HAb gefragt, ob er mir das letzte Teil (Hauptplattform) welches nicht an DHBW gedruckt werden kann ausdrucken kann
 - Joystick und Display zur Steuerung am Arduino zum laufen gebracht.  
 
-## 11.01.2021
+## 11.01.2022
 - Herr Baumgärtner bietet an, dass ich nächste Woche an die DHBW kommen kann um Teile abzuholen und zu bearbeiten (schleifen etc.). Dann wahrscheinlich auch alles zusammenbauen und löten
 - Gedankengang: Erde dreht sich 360° am Tag ==> 360/24/60=0,25  ==> 0,25° pro Minute
 - Motor Schrittwinkel 1,8°
 - Statische Basis= 144 Zähne  ==> x / 144 * 1,8 = 0,125/0,25
 - x = 10 / 20
 - ==> Zahnrad mit 10 oder 20 Zähnen könnte nutzbar sein, um Kamera wenn entlang der Erdachse ausgerichtet, mit Erdrotation mitzudrehen
+
+
+## 18.01.2022
+- War im Labor an der DHBW und habe Teile abgeholt und dort von 13-18:30 Uhr Teile bearbeitet
+- Entgrätet, geschliffen und geguckt was gut lief und nicht gut lief
+- Viel gelernt übers 3D-Drucken ==> Unpräziser als gedacht und große Teile verziehen sich gerne beim Abkühlen
+- Oft zu wenig/keine Toleranz gelassen, was zu unnötig viel schleifen (21-01 Uhr morgens) geführt hat
+- Zahnräder erstaunlich gut und können direkt genutzt werden
+- Kontakt mit Wassilij Kaiser hergestellt, der sich ab nächster Woche um die 3D-Drucker kümmern wird
+- Meisten Sachen laufen aber erstaunlich gut. Z.B. selsbt entwickeltes Kugellager
+- Große Unterschiede zwischen den 2 verwendeten 3D-Drucker, Ultimaker 2 deutlich besser als anderer
+
+## 19.01.2022
+- Selbst entwickelte Platine mit 98 Lötstellen zusammen gelötet und getestet ==> funktioniert super
+- Platine und Arduino passen mit den Schrauben perfekt auf die vorhergesehenen Abstandshalter auf der Elektronikbox
+- TMC2208 Treiber Spannugn eingestellt
+- Ein paar Teile müssen neu gedruckt werden, da nicht mit Schleifen möglich wäre es richtig zu machen
+- Neu zu druckende Teile in Auftrag gegeben
