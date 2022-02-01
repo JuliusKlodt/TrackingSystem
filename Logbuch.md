@@ -96,3 +96,47 @@
 - TMC2208 Treiber Spannugn eingestellt
 - Ein paar Teile müssen neu gedruckt werden, da nicht mit Schleifen möglich wäre es richtig zu machen
 - Neu zu druckende Teile in Auftrag gegeben
+
+## 23.01.2022
+- Angefangen Software zu designen
+- Ardunio-Software in C ==> Organisation in mehrere Header-Files
+
+## 24.01.2022
+- Software und Pinbelegung organisiert
+- Testsoftware um Hardware zu testen
+- Alle Analogen Pins als Digital Output möglich bis auf A6/A7, welche ich natürlich genutzt habe und sehr SEHR lange nicht darauf gekommen bin
+- Probleme beim Verkabeln
+
+## 25.01.2022
+- In DHBW Labor ==> Magnetsensoren verlötet
+- Bearbeitung von Teilen wor z.B. Löcher zu klein waren
+- Meeting mit Herrn Schultheis, ab jetzt wöchentlich Dienstags
+- Neu ausdrucken von Front, Joystickhalterung - Elektronikbox, Objektivhalterung, Arduino-Halterung
+- Abbruch des Drucks, da Ecken sich gelöst haben ==> Wahrscheinlich aufgrund abrundeungen in CAD Modell
+- ABrundungen in CAD entfernt ==> Erfolgreich neu ausgedruckt
+
+## 26.01.2022
+- CAD Modell von Joystickhalterung angepasst und neuausgedruckt
+- Gedanken gemacht, was mit alten Teilen/PLA-Müll passiert ==> https://recyclingfabrik.com ist eine gute Option um nachhaltig zu arbeiten
+- Zusammenbau von weiteren Teilen
+- Joystickhalterung funktioniert, schrauben aber noch auf halbe mm nicht perfekt
+- Test-Software zum gleichzeitigen Bewegen der Motoren ==> Problem Mehrere Motoren in der gleichen Zeit unterschiedlich viele steps
+- ==> Lösung eventuell Threads?!?
+- Verkabelung in Elektronikbox mit jumper kabeln nicht optimal ==> Muss gelötet werden
+- Objektivhalterung ohne Stützstruktur gedruckt ==> geht gut obwol teilweise in Luft gedruckt
+- ==> Passt perfekt mit Objektiv
+
+## 27.01.2022
+- 1/4" Schraube für Kamera gedruckt ==> Geht erstaunlich gut und fixiert Kamera fest
+- Test Kamerasteurung mit Joystick
+- Anforderungen an Sofware geschrieben
+
+## 28.01.2022
+- Research zu Multithreading in C
+- Anfang eines Flow-Charts des main-loops
+
+## 29.01.2022
+- Arbeit an UMl, FlowChart, Menü-Baum, User-Stories
+
+## 01.02.2022
+- Überführung von UML und User Stories in Formate die GitHub unterstützt
