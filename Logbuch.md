@@ -140,3 +140,41 @@
 
 ## 01.02.2022
 - Überführung von UML und User Stories in Formate die GitHub unterstützt
+- Verlötung der Kabel im inneren der Elektronikbox an DHBW
+- Besprechung der Struktur des Berichts
+
+## 02.02.2022
+- Abholung der 8 Teile Befestigung 2cm Rohr
+- Innere Auswölbung war mit 8,8mm Kugeln, 9mm Kugeln war besser
+- Hardware Tests, jetzt fertig
+
+## 04.02.2022
+- Aufgabenstellung erstellt
+- Algorithmus zur gleichzeitigen Steuerung mehrerer Motoren gleichzeitig mit verschiedenen Geschwindigkeiten
+
+## 05.02.2022
+- Algorithmus verbessert / zum Funktionieren gebracht
+- Positionssystem und Grenzen implementiert
+
+## 10.02.2022
+- Serielle Kommunikation C <=> Python (Arduino <=> PC)
+- Gab viele Probleme mti Codierung/Decodierung
+
+## 13.02.2022
+- Erstes mal funktioniert Serielle Kommunikation
+- Tracking funktioniert, sehr ruckelig, Probleme wenn mehr als ein Gesicht, erkennt manchmal random wo anders Gesichter
+- Frage: Welches Gesicht soll getrackt werden?
+- Einstellungen des Trackings in Python
+- Optimierung der Gesichtserkennung durch Verknüpfung mit Augenerkennung & immer nur Gesicht erkenn, wenn 2 Augen drinnen sind
+- Immer nur größtes echtes Gesicht (mit 2 Augen) tracken
+
+## 14.02.2022
+- Aufgabenstellung anpassen
+- LaTex einrichten
+
+## 16.02.2022
+- Alle CAD-Modelle durchgehen, anpassen & bennen
+- Git-Aktualisieren
+
+
+
